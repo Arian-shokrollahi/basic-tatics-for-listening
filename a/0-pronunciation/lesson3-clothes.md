@@ -2,6 +2,10 @@
 ---
 # اول بریم سراغه کلماتی که در بخش لباس ها (clothes)قرار میگیرن
 
+<p align="center">
+	<img src="00-images/3clothes.png" alt="" width=1000>
+</p>
+
 |English|تلفظ تقریبی|معنی فارسی|
 |---|---|---|
 |T-shirt|تی‌شِرت|تی‌شرت|
