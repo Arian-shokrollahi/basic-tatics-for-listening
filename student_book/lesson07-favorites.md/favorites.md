@@ -93,3 +93,35 @@
 
 - **work** → کار
 - **boredom** → بی‌حوصلگی / کسالت
+
+---
+### 4- conversation
+**A:** What’s your favorite TV show, Ryan?  
+→ برنامه تلویزیونی موردعلاقه‌ات چیه، رایان؟
+
+**B:** Oh, probably _My Crazy Life_.  
+→ احتمالاً _My Crazy Life_.
+
+**A:** Really? What’s it about?  
+→ واقعاً؟ درباره چیه؟
+
+**B:** Well, it’s a drama about a group of friends. It has a lot of romance.  
+→ خب، یک سریال درام درباره گروهی از دوستانه. بخش عاشقانه زیادی هم داره.
+
+**A:** Huh. I’ve never heard of it. Who’s in it?  
+→ هوم، تا حالا اسمش رو نشنیدم. چه کسانی توش بازی می‌کنن؟
+
+**B:** Max Fox and Lindsay Jones.  
+→ مکس فاکس و لیندزی جونز.
+
+**A:** Oh, Max is one of my favorite actors! When is it on?  
+→ اوه، مکس یکی از بازیگرهای موردعلاقه منه! چه زمانی پخش میشه؟
+
+**B:** It’s on Thursdays at 9:00. Or you can watch it online.  
+→ پنجشنبه‌ها ساعت ۹ پخش میشه. یا می‌تونی آنلاین تماشاش کنی.
+
+سه عبارت خیلی مهم این تمرین که ارزش حفظ کردن دارن:
+
+- **What’s it about?** → درباره چیه؟
+- **I’ve never heard of it.** → تا حالا اسمش رو نشنیدم.
+- **When is it on?** → چه زمانی پخش میشه؟
