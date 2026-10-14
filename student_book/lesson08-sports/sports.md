@@ -3,7 +3,7 @@
 ---
 
 <p align=center>
-	<img src="../000-images/sports.png" alt="image" width=800>
+	<img src="../00-images/sports.png" alt="image" width=800>
 </p>
 
 **۱. ورزش‌های تیمی و توپی**
