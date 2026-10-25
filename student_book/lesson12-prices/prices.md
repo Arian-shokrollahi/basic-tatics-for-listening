@@ -2,7 +2,7 @@
 ---
 
 <p align=center>
-	<img src="../00-images/shopping" alt="image" width=800>
+	<img src="../00-images/shopping.png" alt="image" width=800>
 </p>
 ### 1. چطور قیمت‌ها رو بخونیم؟
 
