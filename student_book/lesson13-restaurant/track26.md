@@ -2,7 +2,7 @@
 ---
 
 <p align=center>
-	<img src="../00-images/track26" alt="img" width=600>
+	<img src="../00-images/track26.png" alt="img" width=600>
 </p> 
 
 ## Listening 3 – Full Transcript
