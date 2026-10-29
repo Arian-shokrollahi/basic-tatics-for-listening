@@ -1,7 +1,7 @@
 # parts of body
 ----
 <p align=center>
-	<img src="../00images/partsofbody.png" alt="img" width=600>
+	<img src="../00-images/partsofbody.png" alt="img" width=600>
 </p>
 
 
