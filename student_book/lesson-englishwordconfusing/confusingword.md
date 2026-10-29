@@ -1,6 +1,7 @@
 <p align=center>
-	<img src="../00images/confusingenglishword.png" alt="img" width=600>
+	<img src="../00-images/English Word Learning Infographic.png" alt="img" width=600>
 </p>
+
 ----
 ## 1. جدول تفاوت‌ها
 
